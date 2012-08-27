@@ -2,28 +2,14 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>name</key>
+	<string>MultiMarkdown</string>
+	<key>uuid</key>
+	<string>917A79E4-F72B-498B-B60D-1FF321869F57</string>
 	<key>contactEmailRot13</key>
 	<string>syrgpure@syrgpurecraarl.arg</string>
 	<key>contactName</key>
 	<string>Fletcher T. Penney</string>
-	<key>deleted</key>
-	<array>
-		<string>58434A58-85E8-11D9-9CD0-000D93B3A10E</string>
-		<string>15D9BCDD-1140-49B1-A054-5D9D57DC29A4</string>
-		<string>B6E4F67F-D9E2-4866-A958-A96C063549DB</string>
-		<string>D548EAB4-08E6-449B-89DF-CE8BAAEF7BBA</string>
-		<string>70F80DF8-3FFE-46E3-A1A7-5E480E2623BD</string>
-		<string>AC737304-8B70-49F4-9442-AB824D8D911C</string>
-		<string>6A1D4980-B41C-11D9-95E7-000D93B6E43C</string>
-		<string>485F0ABF-7A7D-4432-8AB6-702414D6ADBD</string>
-		<string>4AB16529-60A5-4CE7-8E97-B0785CAF87C4</string>
-		<string>3BAE5ECF-9006-43D0-9AEB-28FAFE526840</string>
-		<string>401A3DB4-7032-4046-A2B6-6021C20F4DE5</string>
-		<string>DB5085DA-3E95-4020-8521-C9702168F160</string>
-		<string>E57A1B41-D70E-44C9-9512-45026C0A32F2</string>
-		<string>F05719F8-89F2-48F0-88F6-8CFAEEF5BA91</string>
-		<string>D9118E94-4E23-4B75-88D7-6BFEBAA70D1B</string>
-	</array>
 	<key>description</key>
 	<string>&lt;a href="http://daringfireball.net/projects/markdown/"&gt;Markdown&lt;/a&gt; allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML. This bundle provides preview functionality, syntax highlighting, and several useful commands.  Improved support for &lt;a href="http://fletcherpenney.net/multimarkdown/"&gt;MultiMarkdown&lt;/a&gt; has been added.</string>
 	<key>mainMenu</key>
@@ -156,8 +142,6 @@
 			</dict>
 		</dict>
 	</dict>
-	<key>name</key>
-	<string>Markdown</string>
 	<key>ordering</key>
 	<array>
 		<string>B52DEA16-8480-11D9-BE59-000D93B3A10E</string>
@@ -222,7 +206,5 @@
 		<string>7A27A176-318B-403F-9228-D40B55CC6E85</string>
 		<string>C70F0881-D108-47B1-A06F-09C74954E5C2</string>
 	</array>
-	<key>uuid</key>
-	<string>D99E8C0C-792F-11D9-A212-000D93B3A10E</string>
 </dict>
 </plist>
