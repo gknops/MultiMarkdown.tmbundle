@@ -4,10 +4,10 @@
 <dict>
 	<key>beforeRunningCommand</key>
 	<string>nop</string>
-	<key>bundleUUID</key>
-	<string>D99E8C0C-792F-11D9-A212-000D93B3A10E</string>
 	<key>command</key>
-	<string># Process the MultiMarkdown document and display as a web page
+	<string>#!/bin/bash
+source "$TM_SUPPORT_PATH/lib/bash_init.sh" # might not be necessary
+# Process the MultiMarkdown document and display as a web page
 
 
 # This really should go after xml declaration, but
@@ -18,7 +18,8 @@ if [[ -f "$TM_FILEPATH" ]]; then
 fi
 
 
-multimarkdown</string>
+multimarkdown
+</string>
 	<key>fallbackInput</key>
 	<string>document</string>
 	<key>input</key>
